@@ -1,4 +1,4 @@
-export interface BlockFriendModel {
+export interface BlockProfileModel {
   whoBlockId: number
   whoBlockedId: number
 }
